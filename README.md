@@ -3,7 +3,7 @@
 ### Prerequisites
 - Ensure [Node.js](https://nodejs.org/en/) `>= 16` and [`dfx`](https://internetcomputer.org/docs/current/developer-docs/build/install-upgrade-remove) `>= 0.14` are installed.
 
-- Follow the steps mentioned in the backend canister first: https://github.com/jintukumardas/evenity-management-canister/blob/main/README.md
+- Follow the steps mentioned in the backend canister first: [[https://github.com/jintukumardas/evenity-management-canister](https://github.com/jintukumardas/evenity-backend-canister)](https://github.com/jintukumardas/evenity-backend-canister)
 
 
 ### Setup
